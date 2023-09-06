@@ -6,11 +6,8 @@ Postech Computer Science & Engineering 21
 - Python
 - Verilog
 - Unity
-- HTML/CSS
-- React
-- TypeScript
-- ROS
-- Arduino & Raspberry PI
+- HTML/CSS, React, TypeScript
+- (ROS, Arduino & Raspberry PI)
 
 
 # Project 
